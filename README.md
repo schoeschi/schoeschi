@@ -28,10 +28,9 @@ I'm an apprentice in software developement in Switzerland. I like to occasionall
 * <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="width: 15px; height: auto;" alt="SvelteKit logo" /> (More) SvelteKit
 * <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" style="width: 15px; height: auto;" alt="Rust logo" /> Rust
 
-### I passionately hate
+### I don't like
 
-* Spotify (paid, proprietary AND slow asf)
-* Eclipse IDE (just way too slow and old)
+* Spotify (paid, proprietary AND slow)
 
 ### Most used languages on GitHub
 
