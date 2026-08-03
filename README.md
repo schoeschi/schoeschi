@@ -30,8 +30,8 @@ I'm an apprentice in software developement in Switzerland. I like to occasionall
 
 ### I passionately hate
 
-* Spotify
-* Eclipse IDE
+* Spotify (paid, proprietary AND slow asf)
+* Eclipse IDE (just way too slow and old)
 
 ### Most used languages on GitHub
 
