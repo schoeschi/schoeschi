@@ -44,3 +44,5 @@ Follow/DM/add me, I'll most likely follow back!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/schoeschi_/)
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&style=for-the-badge)](https://www.tiktok.com/@schoeschi_)
 [![Discord](https://img.shields.io/badge/Discord-7289da?logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/1220470402866741311)
+
+![Profile views](https://komarev.com/ghpvc/?username=schoeschi&label=Profile%20Views&color=0e75b6&style=flat-square)
