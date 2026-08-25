@@ -16,9 +16,9 @@ I'm an apprentice in software development in Switzerland. I like to occasionally
 * <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="width: 15px; height: auto;" alt="Java logo" /> Java
   * <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" style="width: 15px; height: auto;" alt="Spring Boot logo" /> Spring Boot
 * <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" style="width: 15px; height: auto;" alt="AG logo" /> Angular
-  * <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" style="width: 15px; height: auto;" alt="Sass logo" /> Sass
+* <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" style="width: 15px; height: auto;" alt="Sass logo" /> Sass
 * <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="width: 15px; height: auto;" alt="TS logo" /> TypeScript
-* <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gradle-icon.png" style="width: 15px; height: auto;" alt="Gradle logo" /> Gradle (if you want to count that, I guess)
+* <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gradle-icon.png" style="width: 15px; height: auto;" alt="Gradle logo" /> Gradle
 * <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="width: 15px; height: auto;" alt="SvelteKit" /> PostgreSQL
 * <img src="https://www.svgrepo.com/show/374094/sqlite.svg" style="width: 15px; height: auto;" alt="SQLite logo" /> SQLite
 * <img src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg" style="width: 15px; height: auto;" alt="Microslop SQL Server logo" /> MSSQL
