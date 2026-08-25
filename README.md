@@ -1,6 +1,6 @@
 ## About me
 
-I'm an apprentice in software developement in Switzerland. I like to occasionally do a personal project on GitHub, mostly with SvelteKit, as I'm currently learning Svelte.
+I'm an apprentice in software development in Switzerland. I like to occasionally do a personal project on GitHub, mostly with SvelteKit, as I'm currently learning Svelte.
 
 ### What I use personally
 
