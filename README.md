@@ -5,7 +5,7 @@ I'm an apprentice in software developement in Switzerland. I like to occasionall
 ### What I use personally
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="width: 15px; height: auto;" alt="SvelteKit" /> SvelteKit
-  * <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="width: 15px; height: auto;" alt="Tailwind logo" /> Tailwind CSS (slander me)
+  * <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="width: 15px; height: auto;" alt="Tailwind logo" /> Tailwind CSS
   * <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="width: 15px; height: auto;" alt="TS logo" /> TypeScript
   * <img src="https://thesvg.org/icons/pocketbase/default.svg" style="width: 15px; height: auto;" alt="PocketBase logo" /> PocketBase
 * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="width: 15px; height: auto;" alt="Python logo" /> Sometimes Python
