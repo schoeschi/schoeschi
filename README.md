@@ -23,15 +23,6 @@ I'm an apprentice in software developement in Switzerland. I like to occasionall
 * <img src="https://www.svgrepo.com/show/374094/sqlite.svg" style="width: 15px; height: auto;" alt="SQLite logo" /> SQLite
 * <img src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg" style="width: 15px; height: auto;" alt="Microslop SQL Server logo" /> MSSQL
 
-### What I want to learn / am currently learning
-
-* <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="width: 15px; height: auto;" alt="SvelteKit logo" /> (More) SvelteKit
-* <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" style="width: 15px; height: auto;" alt="Rust logo" /> Rust
-
-### I don't like
-
-* Spotify (paid, proprietary AND slow)
-
 ### Most used languages on GitHub
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=schoeschi&layout=compact&hide_title=true&langs_count=17&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=schoeschi&layout=compact&hide_title=true&langs_count=17&theme=default_repocard)
@@ -43,5 +34,3 @@ Follow/DM/add me, I'll most likely follow back!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/schoeschi_/)
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&style=for-the-badge)](https://www.tiktok.com/@schoeschi_)
 [![Discord](https://img.shields.io/badge/Discord-7289da?logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/1220470402866741311)
-
-![Profile views](https://komarev.com/ghpvc/?username=schoeschi&label=Profile%20Views&color=0e75b6&style=flat-square)
