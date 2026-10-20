@@ -23,9 +23,10 @@ I'm an apprentice in software development in Switzerland.
 * <img src="https://www.svgrepo.com/show/374094/sqlite.svg" style="width: 15px; height: auto;" alt="SQLite logo" /> SQLite
 * <img src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg" style="width: 15px; height: auto;" alt="Microslop SQL Server logo" /> MSSQL
 
-### What else I use
+### What else I use (school, etc.)
 
-* <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" style="width: 15px; height: auto;" alt="Laravel logo"> Laravel
+* <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/250px-PHP-logo.svg.png" style="width: 15px; height: auto;" alt="PHP logo"> PHP
+ * <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" style="width: 15px; height: auto;" alt="Laravel logo"> Laravel
 * <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/250px-C-Sharp_Logo.svg.png" style="width: 15px; height: auto;" alt="C# logo"> C#
 
 ### Most used languages on GitHub
