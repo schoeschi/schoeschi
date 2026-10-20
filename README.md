@@ -26,7 +26,7 @@ I'm an apprentice in software development in Switzerland.
 ### What else I use
 
 * <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" style="width: 15px; height: auto;" alt="Laravel logo"> Laravel
-* <img src="https://dashboardicons.com/icons/csharp" style="idth: 15px; height: auto;" alt="C# logo"> C#
+* <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/250px-C-Sharp_Logo.svg.png" style="idth: 15px; height: auto;" alt="C# logo"> C#
 
 ### Most used languages on GitHub
 
